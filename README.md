@@ -1,11 +1,11 @@
 # no-trample
+
+WARNING
+-This datapack is currently in BETA phase. That mean there might be some broken stuff or stuff that I haven't make.
+
 This datapack make player or entity cannot trample on any crop.
 
-Please Note
+Please Note (I'm working on)
 - Player will not be able to break any type of crops
-- I'm working on pumpkin and melon stem
+- attached pumpkin and melon stem
 - This datapack only support fully grown crops
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Se
