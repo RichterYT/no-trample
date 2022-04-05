@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{PickupDelay:1000,Tags:[\"Beetroot\"],CustomModelData:1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

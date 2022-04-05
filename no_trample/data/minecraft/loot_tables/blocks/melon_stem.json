@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:melon_seeds",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{PickupDelay:1000,Tags:[\"Melon\"],CustomModelData:1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
